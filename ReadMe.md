@@ -4,11 +4,11 @@ This project is a demo showing a full stack setup to load and inquire questions 
 
 When requesting a question, Open Trivia Database already gives the correct solution as part of its response . That is why there seperate backend was implemented, such that the backend displays the question without already providing the solution. 
 
-The backend is made in Java using Swagger. The frontend is made in Vue.js with the Vuetify component framework.
+The backend is made in Java using the Spring Framework and Swagger. The frontend is made in Vue.js with the Vuetify component framework.
 
 [Try it out here!](https://archimedesftw.github.io/opentrivia-frontend/)
  
 ### Repositories
 [Frontend repository](https://github.com/ArchimedesFTW/opentrivia-frontend)
 
-[Backend repository](https://github.com/ArchimedesFTW/opentrivia-frontend)
+[Backend repository](https://github.com/ArchimedesFTW/opentrivia-backend)
